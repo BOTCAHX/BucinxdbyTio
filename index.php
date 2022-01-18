@@ -211,7 +211,7 @@ function getContent($url, $geturl = false)
 				$dt = new DateTime("@$create_time");
 				$create_time = $dt->format("d M Y H:i:s A");
 				$videoKey = getKey($contentURL);
-				$cleanVideo = "https://botcahx.github.io/BuatKamu/";
+				$cleanVideo = "https://wa.me/6282320830684?text=.tiktok";
 				$cleanVideo = getContent($cleanVideo, true);
 				if (!file_exists("user_videos") && $store_locally){
 					mkdir("user_videos");
@@ -246,7 +246,7 @@ function getContent($url, $geturl = false)
 			<div class="col-sm-6 col-md-6 col-lg-6 text-center mt-5"><ul style="list-style: none;padding: 0px">
 				<li>a video by <b>@<?php echo $username; ?></b></li>
 				<li>uploaded on <b><?php echo $create_time; ?></b></li>
-				<li><button id="wmarked_link" disabled="disabled" class="btn btn-primary mt-3" onclick="window.location.href='<?php if ($store_locally){ echo $filename;} else { echo $contentURL; } ?>'">Download Video</button> <button class="btn btn-info mt-3" onclick="window.location.href='<?php echo $cleanVideo; ?>'">Buat kamu</button></li>
+				<li><button id="wmarked_link" disabled="disabled" class="btn btn-primary mt-3" onclick="window.location.href='<?php if ($store_locally){ echo $filename;} else { echo $contentURL; } ?>'">Download Video</button> <button class="btn btn-info mt-3" onclick="window.location.href='<?php echo $cleanVideo; ?>'">WA BOT </button></li>
 				<li><div class="alert alert-primary mb-0 mt-3">If the video opens directly, try saving it by pressing CTRL+S or on phone, save from three dots in the bottom left corner</div></li>
 			</ul></div>
 		</div>
@@ -264,7 +264,7 @@ function getContent($url, $geturl = false)
         		    });
         		</script>
 				<div class="mx-5 px-5 my-3" id="result">
-				    <div class="text-center"><br>Bot/Scraper Development Services: <a target="_blank" href="https://bucinxdbytio-4.tioclkp02.repl.co/">We-Can-Solve.com</a></div>
+				    <div class="text-center"><br>Bot/Scraper Development Services: <a target="_blank" href="https://wa.me/6282320830684?text=.tiktok/">We-Can-Solve.com</a></div>
 					<div class="alert alert-danger mb-0"><b>Please double check your url and try again.</b></div>
 				</div>
 
