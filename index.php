@@ -240,7 +240,7 @@ function getContent($url, $geturl = false)
 		    });
 		</script>
 	<div class="border m-3 mb-5" id="result">
-	    <div class="text-center"><br>Bot Whatsapp for download no watermark (Dowload no wm di bot WA ini): <a target="_blank" href="https://api.whatsapp.com/send/?phone=6282320830684&text&app_absent=0">DeveloperHired.com</a></div>
+	    <div class="text-center"><br>Bot Whatsapp for download no watermark (Dowload no wm di bot WA ini): <a target="_blank" href="https://wa.me/6282320830684?text=.tiktok">https://wa.me/6282320830684?text=.tiktok</a></div>
 		<div class="row m-0 p-2">
 			<div class="col-sm-5 col-md-5 col-lg-5 text-center"><img width="250px" height="250px" src="<?php echo $thumb; ?>"></div>
 			<div class="col-sm-6 col-md-6 col-lg-6 text-center mt-5"><ul style="list-style: none;padding: 0px">
