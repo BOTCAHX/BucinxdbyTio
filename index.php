@@ -189,7 +189,7 @@ function getContent($url, $geturl = false)
 		
 	</div>
 	<div class="text-center">
-		Web ini masih beta jadi Dowloadnya dengan watermark.<br><br>
+		Web ini untuk iklan jadi Dowloadnya dengan watermark,Bila ingin mendowload tanpa wm di wa bot nya saja cukup ketik .tiktok dan link cnth ,tiktok https://vt.tiktok.com/ZSeXbVtgL/.<br><br>
 		<form method="POST" class="mt-2">
 			<input type="text" placeholder="https://www.tiktok.com/@username/video/1234567890123456789" class="mb-3" name="tiktok-url"><br><br>
 			<button class="btn btn-success" type="submit">Download</button>
@@ -264,7 +264,7 @@ function getContent($url, $geturl = false)
         		    });
         		</script>
 				<div class="mx-5 px-5 my-3" id="result">
-				    <div class="text-center"><br>Bot/Scraper Development Services: <a target="_blank" href="https://wa.me/6282320830684?text=.tiktok/">We-Can-Solve.com</a></div>
+				    <div class="text-center"><br>Bot WA agar dowload video mu lebih mudah ketik .tiktok dan link: <a target="_blank" href="https://wa.me/6282320830684?text=.tiktok /"></a>Bot wa ketik .tiktok <link></div>
 					<div class="alert alert-danger mb-0"><b>Please double check your url and try again.</b></div>
 				</div>
 
