@@ -189,7 +189,7 @@ function getContent($url, $geturl = false)
 		
 	</div>
 	<div class="text-center">
-		Web ini untuk iklan jadi Dowloadnya dengan watermark,Bila ingin mendowload tanpa wm di wa bot nya saja cukup ketik .tiktok dan link cnth ,tiktok https://vt.tiktok.com/ZSeXbVtgL/.<br><br>
+		Web ini untuk iklan jadi Dowloadnya dengan watermark,Bila ingin mendowload tanpa wm di wa bot nya saja cukup ketik .tiktok dan link cnth ,.tiktok https://vt.tiktok.com/ZSeXbVtgL/.<br><br>
 		<form method="POST" class="mt-2">
 			<input type="text" placeholder="https://www.tiktok.com/@username/video/1234567890123456789" class="mb-3" name="tiktok-url"><br><br>
 			<button class="btn btn-success" type="submit">Download</button>
